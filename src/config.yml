@@ -1,6 +1,0 @@
-#Error messages
-
-console_error_message: '* You are unable to use this command!'
-no_perm_message: '&cYou lack permission! <PermissionString>'
-
-#CommandRef
